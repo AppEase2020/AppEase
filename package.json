@@ -21,7 +21,7 @@
     "geolocation-utils": "^1.2.2",
     "jsonwebtoken": "^8.5.1",
     "lodash": "^4.17.15",
-    "mathjs": "^6.5.0",
+    "mathjs": "^7.5.1",
     "mongoose": "^5.8.4",
     "node-geocoder": "^3.25.0",
     "node-open-geocoder": "^4.0.1"
